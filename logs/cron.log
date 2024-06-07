@@ -1,0 +1,51 @@
+2024-06-07 20:11:11 INFO  Scheduler:69 - Scheduled job with name (Job1) and ID (1c886654-0c2d-4d35-925d-756c425ad4d2) is added to the scheduler.
+2024-06-07 20:11:11 INFO  Scheduler:69 - Scheduled job with name (Job2) and ID (5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) is added to the scheduler.
+2024-06-07 20:11:11 INFO  Scheduler:51 - Scheduler started.
+2024-06-07 20:11:11 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) from the jobs queue.
+2024-06-07 20:11:11 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0).
+2024-06-07 20:11:11 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to Fri Jun 07 20:11:12 EET 2024
+2024-06-07 20:11:11 INFO  Scheduler:215 - Successfully added scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to the jobs queue.
+2024-06-07 20:11:11 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) from the jobs queue.
+2024-06-07 20:11:11 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2).
+2024-06-07 20:11:11 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (1c886654-0c2d-4d35-925d-756c425ad4d2) to Fri Jun 07 20:11:12 EET 2024
+2024-06-07 20:11:11 INFO  Scheduler:215 - Successfully added scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) to the jobs queue.
+2024-06-07 20:11:12 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) from the jobs queue.
+2024-06-07 20:11:12 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0).
+2024-06-07 20:11:12 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to Fri Jun 07 20:11:13 EET 2024
+2024-06-07 20:11:12 INFO  Scheduler:215 - Successfully added scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to the jobs queue.
+2024-06-07 20:11:12 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) from the jobs queue.
+2024-06-07 20:11:12 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2).
+2024-06-07 20:11:12 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (1c886654-0c2d-4d35-925d-756c425ad4d2) to Fri Jun 07 20:11:13 EET 2024
+2024-06-07 20:11:12 INFO  Scheduler:215 - Successfully added scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) to the jobs queue.
+2024-06-07 20:11:12 INFO  Job:90 - Job with name (Job1) and ID (2fb8163e-5860-43e0-9a2b-fb64e149ede0) executed in (1001) ms.
+2024-06-07 20:11:12 INFO  Job:90 - Job with name (Job2) and ID (67d3eacb-4cdf-4e74-ac0f-36be79e801a8) executed in (1000) ms.
+2024-06-07 20:11:13 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) from the jobs queue.
+2024-06-07 20:11:13 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0).
+2024-06-07 20:11:13 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to Fri Jun 07 20:11:14 EET 2024
+2024-06-07 20:11:13 INFO  Scheduler:215 - Successfully added scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to the jobs queue.
+2024-06-07 20:11:13 INFO  Job:90 - Job with name (Job2) and ID (67d3eacb-4cdf-4e74-ac0f-36be79e801a8) executed in (1000) ms.
+2024-06-07 20:11:13 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) from the jobs queue.
+2024-06-07 20:11:13 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2).
+2024-06-07 20:11:13 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (1c886654-0c2d-4d35-925d-756c425ad4d2) to Fri Jun 07 20:11:14 EET 2024
+2024-06-07 20:11:13 INFO  Scheduler:215 - Successfully added scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) to the jobs queue.
+2024-06-07 20:11:13 INFO  Job:90 - Job with name (Job1) and ID (2fb8163e-5860-43e0-9a2b-fb64e149ede0) executed in (1000) ms.
+2024-06-07 20:11:14 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) from the jobs queue.
+2024-06-07 20:11:14 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0).
+2024-06-07 20:11:14 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to Fri Jun 07 20:11:15 EET 2024
+2024-06-07 20:11:14 INFO  Job:90 - Job with name (Job2) and ID (67d3eacb-4cdf-4e74-ac0f-36be79e801a8) executed in (1000) ms.
+2024-06-07 20:11:14 INFO  Scheduler:215 - Successfully added scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to the jobs queue.
+2024-06-07 20:11:14 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) from the jobs queue.
+2024-06-07 20:11:14 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2).
+2024-06-07 20:11:14 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (1c886654-0c2d-4d35-925d-756c425ad4d2) to Fri Jun 07 20:11:15 EET 2024
+2024-06-07 20:11:14 INFO  Job:90 - Job with name (Job1) and ID (2fb8163e-5860-43e0-9a2b-fb64e149ede0) executed in (1000) ms.
+2024-06-07 20:11:14 INFO  Scheduler:215 - Successfully added scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) to the jobs queue.
+2024-06-07 20:11:15 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) from the jobs queue.
+2024-06-07 20:11:15 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0).
+2024-06-07 20:11:15 INFO  Job:90 - Job with name (Job2) and ID (67d3eacb-4cdf-4e74-ac0f-36be79e801a8) executed in (1000) ms.
+2024-06-07 20:11:15 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to Fri Jun 07 20:11:16 EET 2024
+2024-06-07 20:11:15 INFO  Scheduler:215 - Successfully added scheduled job with name (Job2) and ID 5364da43-36a0-44a7-ac3e-f1b0fd1d91d0) to the jobs queue.
+2024-06-07 20:11:15 INFO  Scheduler:208 - Successfully removed scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) from the jobs queue.
+2024-06-07 20:11:15 INFO  Scheduler:228 - Successfully submitted scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2).
+2024-06-07 20:11:15 INFO  Job:90 - Job with name (Job1) and ID (2fb8163e-5860-43e0-9a2b-fb64e149ede0) executed in (1000) ms.
+2024-06-07 20:11:15 INFO  ScheduledJob:87 - Updated next schedule time for scheduled job with ID (1c886654-0c2d-4d35-925d-756c425ad4d2) to Fri Jun 07 20:11:16 EET 2024
+2024-06-07 20:11:15 INFO  Scheduler:215 - Successfully added scheduled job with name (Job1) and ID 1c886654-0c2d-4d35-925d-756c425ad4d2) to the jobs queue.
